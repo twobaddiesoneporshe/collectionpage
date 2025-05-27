@@ -13,7 +13,7 @@ st.image("IMG_0353.jpeg")
 st.write("Today’s mail 💌💗")
 st.image("IMG_0354.jpeg")
 
-st.write("Seungmin Rockstar Era🤘🏻")
+st.write("Seungmin Rockstar Era🤘🏻") 
 st.image("IMG_0365.jpeg") 
 
 st.title("Aplikasi Sederhana")
