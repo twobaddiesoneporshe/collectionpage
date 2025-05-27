@@ -10,3 +10,7 @@ st.write("skz maxident era")
 st.image("IMG_0353.jpeg")
 st.image("IMG_0354.jpeg")
 st.image("IMG_0365.jpeg") 
+
+st.title("Aplikasi Sederhana")
+st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
+angka = st.number_input("Tulis Sebuah Angka:")
