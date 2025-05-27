@@ -4,7 +4,7 @@ st.title("Rina's Collection Page 🩷")
 st.write("mostly stan skz and xdiz!! ⋆. 𐙚 ˚❀⋆.ೃ࿔*:･")
 st.write("Rafa Fitrina, Kelas X-C")
 
-st.write("SKZ Maxident Era 💗")
+st.write("SKZ Maxident Era 💗") 
 st.image("IMG_0350.jpeg") 
 
 st.write("Glitch Mode 💿")
